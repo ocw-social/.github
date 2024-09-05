@@ -1,5 +1,3 @@
-# OCW Social
+# [OCW Social](https://ocw.social)
 
 ![OCW Social header image](../header.jpg)
-
-* [https://ocw.social](https://ocw.social)
