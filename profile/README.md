@@ -1,5 +1,5 @@
 # OCW Social
 
-![OCW Social header image](.github/images/header.jpg)
+![OCW Social header image](../header.jpg)
 
 * [https://ocw.social](https://ocw.social)
